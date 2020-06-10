@@ -1,0 +1,12 @@
+.Tilt{
+background: linear-gradient(90deg, rgba(121,9,120,1) 39%, rgba(0,212,255,1) 63%);}
+img{
+	padding-top:5px;
+}
+logW{
+top:0px;
+}
+.logW:hover{
+	cursor:pointer;
+
+}
